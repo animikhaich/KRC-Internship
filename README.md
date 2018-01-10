@@ -14,4 +14,4 @@ Brushing up skills on basic python concepts from GeeksforGeeks.org.
     Control Flow - Loops and Iterations
     Strings - String manipulations and String opeartions.
 
-------------------------------------------------------------END OF DAY 1------------------------------------------------------------------
+----------------------------------------------------------END OF DAY 1----------------------------------------------------------------
