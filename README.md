@@ -15,3 +15,16 @@ Brushing up skills on basic python concepts from GeeksforGeeks.org.
     Strings - String manipulations and String opeartions.
 
 ----------------------------------------------------------END OF DAY 1----------------------------------------------------------------
+
+Day 2:
+
+Following a Book "Think Python" and solve it's exercise questions
+
+  Topics:
+  
+    Using the inbuilt math module to find the volume of a sphere
+    Calculation of price for shipping 60 books
+    Calculation of time taken by a person to run to a destination and return back home
+    Recursion Examples
+
+----------------------------------------------------------END OF DAY 2----------------------------------------------------------------
