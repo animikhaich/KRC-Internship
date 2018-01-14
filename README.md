@@ -44,8 +44,20 @@ Started learning Numpy from the website: https://docs.scipy.org/doc/numpy-dev/us
 
   Topics:
   
-    Basics: Array declaration, Item size, Resizing array, explitly changing of datatype of the array
-    Array creation: Array of ones, zeros, empty array, Range, Random function
-    Array Operations: Transpose, dot operator, Add, sub, multi, div, power, comparison, dot operator, sqrt operator
+    Basics - Array declaration, Item size, Resizing array, explitly changing of datatype of the array
+    Array creation - Array of ones, zeros, empty array, Range, Random function
+    Array Operations - Transpose, dot operator, Add, sub, multi, div, power, comparison, dot operator, sqrt operator
 
 ----------------------------------------------------------END OF DAY 4----------------------------------------------------------------
+
+### Day 5:
+
+Continued learning Numpy from the website: https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
+
+  Topics:
+  
+    Numpy - Indexing, Slicing and other operations, Stacking, Multidimentional Array operations, Spliting of Array, Iterating, Shape manipulations
+    Array Copying - No Copy, Shallow Copy, Deep copy
+    Indexing with Array Indices - Basics
+    
+----------------------------------------------------------END OF DAY 5----------------------------------------------------------------
