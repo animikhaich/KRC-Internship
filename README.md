@@ -65,11 +65,11 @@ Continued learning Numpy from the website: https://docs.scipy.org/doc/numpy-dev/
 ### Day 6:
 
 Started with OOPs concepts from the following websites:
-https://pythonspot.com/polymorphism/ 
-https://pythonspot.com/encapsulation/ 
-https://www.programiz.com/python-programming/multiple-inheritance 
-https://www.programiz.com/python-programming/inheritance 
-https://www.youtube.com/watch?v=wksc1pfhJ5Q 
+1. https://pythonspot.com/polymorphism/ 
+2. https://pythonspot.com/encapsulation/ 
+3. https://www.programiz.com/python-programming/multiple-inheritance 
+4. https://www.programiz.com/python-programming/inheritance 
+5. https://www.youtube.com/watch?v=wksc1pfhJ5Q 
 
   Topics:
   
