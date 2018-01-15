@@ -61,3 +61,19 @@ Continued learning Numpy from the website: https://docs.scipy.org/doc/numpy-dev/
     Indexing with Array Indices - Basics
     
 ----------------------------------------------------------END OF DAY 5----------------------------------------------------------------
+
+### Day 6:
+
+Started with OOPs concepts from the following websites:
+https://pythonspot.com/polymorphism/ 
+https://pythonspot.com/encapsulation/ 
+https://www.programiz.com/python-programming/multiple-inheritance 
+https://www.programiz.com/python-programming/inheritance 
+https://www.youtube.com/watch?v=wksc1pfhJ5Q 
+
+  Topics:
+  
+    Basics - Class definition, Instance creation, Methods and Class variables
+    Important Concepts - Data Hiding or Encapsulation, Class Inhertance, Polymorphism (need to revise)
+    
+----------------------------------------------------------END OF DAY 6----------------------------------------------------------------
